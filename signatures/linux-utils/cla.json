@@ -1,3 +1,12 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "jspc",
+      "id": 810133,
+      "comment_id": 776465408,
+      "created_at": "2021-02-10T05:59:48Z",
+      "repoId": 335562755,
+      "pullRequestNo": 1
+    }
+  ]
 }
